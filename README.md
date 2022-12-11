@@ -1,2 +1,2 @@
-# Java-Script-Dio
- Bootcamp Orange Tech javaScript
+# Pokedex
+ Bootcamp Orange Tech javaScript, creating an pokedex with JavaScript
